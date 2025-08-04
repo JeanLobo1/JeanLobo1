@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ## 💼 Projects Highlights
 
 - 🧾 [Makita ERP](https://makita.ind.in/admin/login): Enterprise-level travel & promotion system  
-- 📊 Health Insurance API Integrations (Reliance, HDFC, USGI)  
-- 🛠️ Bulk Test Case Uploader & Developer Productivity Tools  
+- 📊 [Health](https://health.heroinsurance.com/) Insurance API Integrations (Reliance, HDFC)  
+- 🛠️ [Bulk Test Case Uploader](https://project-tools-prod.fynity.in/login) & Developer Productivity Tools  
 
 ## 🧰 Tech Stack
 
