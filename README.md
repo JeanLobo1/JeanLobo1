@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jean Lobo</h1>
 <h3 align="center">Laravel / PHP Developer | Backend Engineer</h3>
 
-- 🚀 Laravel/PHP Developer with ** 4+ years ** of experience in designing, developing, and maintaining enterprise web applications and internal tools.
+- 🚀 Laravel/PHP Developer with 4+ years of experience in designing, developing, and maintaining enterprise web applications and internal tools.
 - 🔧 Adept in modernizing legacy systems, implementing design patterns, and building scalable APIs.
 - ⚙️ I work with: Laravel, PHP, MySQL, Redis, SendGrid, AWS, REST APIs
 - 🛠️ Proven expertise in ERP development, third-party integration, CI/CD pipelines, and data-driven feature engineering.
